@@ -588,7 +588,7 @@
 				"ru":"Эксклюзивный пакет расширения",
 				"zh":"扩展资料片限定",
 				"nl":"Alleen vekrijgbaar met uibreidings paket",
-				"pt":"Pacore de expansão exclusivo",
+				"pt":"Pacote de expansão exclusivo",
 				"ar":"حزمه"
 			}
 		},
@@ -602,6 +602,7 @@
 				"zh":"栖息地",
 				"nl":"Habitat",
 				"ar":"موطن"
+				"pt" Habitat"
 			}
 		},
 		"4":{
